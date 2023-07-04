@@ -1,0 +1,12 @@
+div{
+    background-color: beige;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h1{
+  text-align: center;
+  background-color: rgba(50, 230, 230, 0.955);
+  font-family: georgia;
+  padding: 10px;
+}
